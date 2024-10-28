@@ -1,0 +1,12 @@
+{
+	"require": {
+		"php": "8.2.3",
+		"cloudinary/cloudinary_php": "^1.14",
+		"twig/twig": "^3.0"
+	},
+    "scripts": {
+        "compile": [
+            "composer update"
+        ]
+    }
+}
